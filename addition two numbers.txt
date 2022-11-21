@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int
+main ()
+{
+  int i,j;
+ 
+ cout<< "enter first number ";
+ cin>>i;
+  cout<<"\n"<<"enter second numer ";
+  cin>>j;
+  cout<<"\n"<<"your answer is "<<i+j;
+  return 0;
+}
