@@ -7,10 +7,10 @@ main ()
 {
   int i,j;
  
- cout<< "enter first number ";
+ cout<< "Enter first number ";
  cin>>i;
-  cout<<"\n"<<"enter second numer ";
+  cout<<"\n"<<"Enter second numer ";
   cin>>j;
-  cout<<"\n"<<"your answer is "<<i+j;
+  cout<<"\n"<<"Your Answer is "<<i+j;
   return 0;
 }
